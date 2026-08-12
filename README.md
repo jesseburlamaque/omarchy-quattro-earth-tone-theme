@@ -1,6 +1,6 @@
 # omarchy-quattro-earth-tone-theme
 
-![Preview](assets/preview.png)
+![Preview](preview.png)
 
 An Omarchy theme based on the Audi Sport quattro rally livery, reimagined in warm earth tones: deep black soil as background, cream sand as foreground, with accents in clay, terracotta, warm brass and cocoa brown.
 
