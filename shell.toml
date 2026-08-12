@@ -1,0 +1,8 @@
+# Omarchy shell surfaces for Quattro Earth Tone.
+# Forces the top bar to a solid black background as a theme signature.
+
+[bar]
+background       = "#000000"
+background-alpha = 1.0
+text             = "#FFFFFF"
+active           = "#a78c83"
