@@ -9,7 +9,7 @@ A sibling of the original [omarchy-quattro-theme](https://github.com/alexzeitler
 ## Installation
 
 ```bash
-omarchy theme install https://github.com/YOUR_GITHUB_USERNAME/omarchy-quattro-earth-tone-theme
+omarchy theme install https://github.com/jesseburlamaque/omarchy-quattro-earth-tone-theme
 ```
 
 ## Screenshots
