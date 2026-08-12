@@ -1,6 +1,6 @@
 # omarchy-quattro-earth-tone-theme
 
-![Preview](backgrounds/quattro-1.jpg)
+![Preview](assets/preview.png)
 
 An Omarchy theme based on the Audi Sport quattro rally livery, reimagined in warm earth tones: deep black soil as background, cream sand as foreground, with accents in clay, terracotta, warm brass and cocoa brown.
 
@@ -12,9 +12,9 @@ A sibling of the original [omarchy-quattro-theme](https://github.com/alexzeitler
 omarchy theme install https://github.com/jesseburlamaque/omarchy-quattro-earth-tone-theme
 ```
 
-## Screenshots
+## Wallpapers
 
-Click a thumbnail to open the wallpaper in full resolution.
+Included wallpapers for the theme. Click a thumbnail to open in full resolution.
 
 ### Quattro Earth Tone 1
 
