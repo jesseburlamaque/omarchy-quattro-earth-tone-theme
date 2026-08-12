@@ -24,6 +24,10 @@ Included wallpapers for the theme. Click a thumbnail to open in full resolution.
 
 ![Quattro Earth Tone Wallpaper 2](backgrounds/quattro-2.jpg)
 
+### Quattro Earth Tone 3
+
+![Quattro Earth Tone Wallpaper 3](backgrounds/quattro-3.jpg)
+
 ## Colors
 
 | Role | Color |
