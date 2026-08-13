@@ -66,13 +66,7 @@ omarchy theme set quattro-earth-tone
 
 ### Manual installation
 
-Copy `warp/omarchy_quattro_earth_tone.yaml` into your Warp themes directory:
-
-- **Linux:** `${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes/`
-- **macOS:** `~/.warp/themes/`
-- **Windows:** `%APPDATA%\warp\Warp\data\themes\`
-
-Then restart Warp or open **Settings → Appearance → Themes** and select *Omarchy Quattro Earth Tone*.
+Copy `warp/omarchy_quattro_earth_tone.yaml` into your Warp themes directory (`~/.local/share/warp-terminal/themes/` by default), then restart Warp or open **Settings → Appearance → Themes** and select *Omarchy Quattro Earth Tone*.
 
 ## Herdr
 
