@@ -47,13 +47,32 @@ Folder icons use `Yaru-wartybrown` for that earthy folder look.
 
 ## WARP
 
-Copy `warp/omarchy_quattro_earth_tone.yaml` into your WARP themes directory:
+Warp reads custom themes from its own themes directory, not from the Omarchy theme path, so an extra copy step is required.
+
+### Automatic installation (Omarchy hook)
+
+Copy the provided hook into Omarchy's `theme-set.d` directory so the Warp theme is refreshed whenever this theme is applied:
+
+```bash
+cp omarchy/hooks/theme-set.d/install-warp-theme.sh ~/.config/omarchy/hooks/theme-set.d/
+chmod +x ~/.config/omarchy/hooks/theme-set.d/install-warp-theme.sh
+```
+
+Then re-apply the theme or run the hook once:
+
+```bash
+omarchy theme set quattro-earth-tone
+```
+
+### Manual installation
+
+Copy `warp/omarchy_quattro_earth_tone.yaml` into your Warp themes directory:
 
 - **Linux:** `${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes/`
 - **macOS:** `~/.warp/themes/`
 - **Windows:** `%APPDATA%\warp\Warp\data\themes\`
 
-Then restart WARP or open **Settings → Appearance → Themes** and select *Omarchy Quattro Earth Tone*.
+Then restart Warp or open **Settings → Appearance → Themes** and select *Omarchy Quattro Earth Tone*.
 
 ## Herdr
 
