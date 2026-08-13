@@ -8,7 +8,7 @@ theme[main_fg]="#FFFFFF"
 theme[title]="#FFFFFF"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#937478"
+theme[hi_fg]="#d4a37e"
 
 # Background color of selected item in processes box. #FFFFFF maps to
 # the foreground role in omarchy (terminal selection wants inverted contrast),
@@ -42,7 +42,7 @@ theme[proc_misc]="#e9d4ae"
 theme[cpu_box]="#c69e9a"
 theme[mem_box]="#d3bba2"
 theme[net_box]="#a78c83"
-theme[proc_box]="#937478"
+theme[proc_box]="#d4a37e"
 
 # Box divider line and small boxes line color
 theme[div_line]="#686163"
@@ -54,16 +54,16 @@ theme[temp_end]="#a78c83"
 
 # CPU graph colors (Teal -> Blue -> Purple)
 theme[cpu_start]="#e9d4ae"
-theme[cpu_mid]="#937478"
+theme[cpu_mid]="#d4a37e"
 theme[cpu_end]="#c69e9a"
 
 # Mem/Disk free meter
 theme[free_start]="#c69e9a"
-theme[free_mid]="#937478"
+theme[free_mid]="#d4a37e"
 theme[free_end]="#e9d4ae"
 
 # Mem/Disk cached meter
-theme[cached_start]="#937478"
+theme[cached_start]="#d4a37e"
 theme[cached_mid]="#e9d4ae"
 theme[cached_end]="#c69e9a"
 
@@ -75,7 +75,7 @@ theme[available_end]="#a78c83"
 # Mem/Disk used meter (Green -> Teal -> Blue)
 theme[used_start]="#d3bba2"
 theme[used_mid]="#e9d4ae"
-theme[used_end]="#937478"
+theme[used_end]="#d4a37e"
 
 # Download graph colors
 theme[download_start]="#ffe7cc"
@@ -85,9 +85,9 @@ theme[download_end]="#a78c83"
 # Upload graph colors (Green -> Teal -> Blue)
 theme[upload_start]="#d3bba2"
 theme[upload_mid]="#e9d4ae"
-theme[upload_end]="#937478"
+theme[upload_end]="#d4a37e"
 
 # Process box color gradient for threads, mem and cpu usage
 theme[process_start]="#e9d4ae"
-theme[process_mid]="#937478"
+theme[process_mid]="#d4a37e"
 theme[process_end]="#c69e9a"

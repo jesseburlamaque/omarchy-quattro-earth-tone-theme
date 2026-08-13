@@ -34,11 +34,11 @@ Included wallpapers for the theme. Click a thumbnail to open in full resolution.
 |---|---|
 | Background | `#000000` |
 | Foreground | `#FFFFFF` |
-| Accent | `#937478` |
+| Accent | `#d4a37e` |
 | Red | `#a78c83` |
 | Green | `#d3bba2` |
 | Yellow | `#ffe7cc` |
-| Blue | `#937478` |
+| Blue | `#d4a37e` |
 | Magenta | `#c69e9a` |
 | Cyan | `#e9d4ae` |
 | Brown | `#6c5e5a` |
