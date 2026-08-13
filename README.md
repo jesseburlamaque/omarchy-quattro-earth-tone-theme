@@ -4,8 +4,6 @@
 
 An Omarchy theme based on the Audi Sport quattro rally livery, reimagined in warm earth tones: deep black soil as background, cream sand as foreground, with accents in clay, terracotta, warm brass and cocoa brown.
 
-A sibling of the original [omarchy-quattro-theme](https://github.com/alexzeitler/omarchy-quattro-theme), but for those who prefer their rally cars covered in dirt rather than snow.
-
 ## Installation
 
 ```bash
