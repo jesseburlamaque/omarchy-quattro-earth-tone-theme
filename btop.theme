@@ -11,7 +11,7 @@ theme[title]="#FFFFFF"
 theme[hi_fg]="#937478"
 
 # Background color of selected item in processes box. #FFFFFF maps to
-# the foreground role in aether (terminal selection wants inverted contrast),
+# the foreground role in omarchy (terminal selection wants inverted contrast),
 # which renders as plain white on dark themes - indistinguishable from the
 # main text. #1a1a1a gives a subtle highlight that still reads on a
 # dark background and is invisible-but-harmless on light backgrounds.
