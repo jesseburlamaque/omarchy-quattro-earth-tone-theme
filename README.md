@@ -33,12 +33,12 @@ Included wallpapers for the theme. Click a thumbnail to open in full resolution.
 | Background | `#000000` |
 | Foreground | `#FFFFFF` |
 | Accent | `#d4a37e` |
-| Red | `#a78c83` |
-| Green | `#d3bba2` |
-| Yellow | `#ffe7cc` |
-| Blue | `#d4a37e` |
-| Magenta | `#c69e9a` |
-| Cyan | `#e9d4ae` |
+| Red | `#c06b5e` |
+| Green | `#8b9a6d` |
+| Yellow | `#d4a24a` |
+| Blue | `#5e7a8b` |
+| Magenta | `#9a6e7a` |
+| Cyan | `#7da38b` |
 | Brown | `#6c5e5a` |
 
 ## Icon theme
