@@ -1,0 +1,27 @@
+# Omarchy Quattro Earth Tone theme for Herdr
+# Copy the [theme] and [theme.custom] sections into ~/.config/herdr/config.toml
+# and run: herdr server reload-config
+
+[theme]
+name = "terminal"
+
+[theme.custom]
+accent = "#d4a37e"
+text = "#FFFFFF"
+subtext0 = "#a0a0a0"
+panel_bg = "#000000"
+surface0 = "#111111"
+surface1 = "#222222"
+surface_dim = "#0a0a0a"
+overlay0 = "#333333"
+overlay1 = "#444444"
+red = "#c06b5e"
+green = "#8b9a6d"
+yellow = "#d4a24a"
+blue = "#6d8a9b"
+teal = "#7da38b"
+mauve = "#9a6e7a"
+peach = "#d88a5e"
+
+[ui]
+accent = "#d4a37e"

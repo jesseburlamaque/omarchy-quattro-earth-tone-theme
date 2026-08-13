@@ -45,6 +45,26 @@ Included wallpapers for the theme. Click a thumbnail to open in full resolution.
 
 Folder icons use `Yaru-wartybrown` for that earthy folder look.
 
+## WARP
+
+Copy `warp/omarchy_quattro_earth_tone.yaml` into your WARP themes directory:
+
+- **Linux:** `${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes/`
+- **macOS:** `~/.warp/themes/`
+- **Windows:** `%APPDATA%\warp\Warp\data\themes\`
+
+Then restart WARP or open **Settings → Appearance → Themes** and select *Omarchy Quattro Earth Tone*.
+
+## Herdr
+
+Copy the contents of `herdr/omarchy_quattro_earth_tone.toml` into your `~/.config/herdr/config.toml` (create the file if it does not exist). The theme uses `theme.name = "terminal"` so Herdr respects the ANSI palette already configured in your terminal, while its own UI stays in neutral black/gray with the caramel accent.
+
+After editing, reload the config:
+
+```bash
+herdr server reload-config
+```
+
 ## License
 
 MIT License — see [LICENSE](LICENSE).

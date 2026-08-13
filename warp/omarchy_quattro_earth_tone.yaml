@@ -1,0 +1,26 @@
+name: Omarchy Quattro Earth Tone
+accent: "#d4a37e"
+cursor: "#d4a37e"
+background: "#000000"
+foreground: "#FFFFFF"
+details: darker
+
+terminal_colors:
+  normal:
+    black:   "#000000"
+    red:     "#c06b5e"
+    green:   "#8b9a6d"
+    yellow:  "#d4a24a"
+    blue:    "#6d8a9b"
+    magenta: "#9a6e7a"
+    cyan:    "#7da38b"
+    white:   "#FFFFFF"
+  bright:
+    black:   "#686163"
+    red:     "#d88a7d"
+    green:   "#a8b78a"
+    yellow:  "#e6bf6d"
+    blue:    "#8aa4b5"
+    magenta: "#b88e9a"
+    cyan:    "#9ec0a9"
+    white:   "#FFFFFF"
