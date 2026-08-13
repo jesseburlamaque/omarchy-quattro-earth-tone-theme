@@ -89,9 +89,9 @@
         "terminal.ansi.red": "#c06b5e",
         "terminal.ansi.bright_red": "#d88a7d",
         "terminal.ansi.dim_red": "#c06b5e80",
-        "terminal.ansi.green": "#8b9a6d",
-        "terminal.ansi.bright_green": "#a8b78a",
-        "terminal.ansi.dim_green": "#8b9a6d80",
+        "terminal.ansi.green": "#74a57b",
+        "terminal.ansi.bright_green": "#8fb795",
+        "terminal.ansi.dim_green": "#74a57b80",
         "terminal.ansi.yellow": "#d4a24a",
         "terminal.ansi.bright_yellow": "#e6bf6d",
         "terminal.ansi.dim_yellow": "#d4a24a80",
@@ -114,9 +114,9 @@
         "conflict.background": "#d4a24a15",
         "conflict.border": "#d4a24a",
 
-        "created": "#8b9a6d",
-        "created.background": "#8b9a6d15",
-        "created.border": "#8b9a6d",
+        "created": "#74a57b",
+        "created.background": "#74a57b15",
+        "created.border": "#74a57b",
 
         "deleted": "#c06b5e",
         "deleted.background": "#c06b5e15",
@@ -154,9 +154,9 @@
         "renamed.background": "#7da38b15",
         "renamed.border": "#7da38b",
 
-        "success": "#8b9a6d",
-        "success.background": "#8b9a6d15",
-        "success.border": "#8b9a6d",
+        "success": "#74a57b",
+        "success.background": "#74a57b15",
+        "success.border": "#74a57b",
 
         "unreachable": "#686163",
         "unreachable.background": "#68616315",
@@ -188,9 +188,9 @@
             "background": "#d4a24a"
           },
           {
-            "cursor": "#8b9a6d",
-            "selection": "#8b9a6d40",
-            "background": "#8b9a6d"
+            "cursor": "#74a57b",
+            "selection": "#74a57b40",
+            "background": "#74a57b"
           },
           {
             "cursor": "#c06b5e",
@@ -366,7 +366,7 @@
             "font_weight": null
           },
           "string": {
-            "color": "#8b9a6d",
+            "color": "#74a57b",
             "font_style": null,
             "font_weight": null
           },
@@ -381,7 +381,7 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#8b9a6d",
+            "color": "#74a57b",
             "font_style": null,
             "font_weight": null
           },
@@ -396,7 +396,7 @@
             "font_weight": null
           },
           "text.literal": {
-            "color": "#8b9a6d",
+            "color": "#74a57b",
             "font_style": null,
             "font_weight": null
           },

@@ -34,7 +34,7 @@ Included wallpapers for the theme. Click a thumbnail to open in full resolution.
 | Foreground | `#FFFFFF` |
 | Accent | `#d4a37e` |
 | Red | `#c06b5e` |
-| Green | `#8b9a6d` |
+| Green | `#74a57b` |
 | Yellow | `#d4a24a` |
 | Blue | `#6d8a9b` |
 | Magenta | `#9a6e7a` |
