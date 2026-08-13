@@ -68,6 +68,21 @@ omarchy theme set quattro-earth-tone
 
 Copy `warp/omarchy_quattro_earth_tone.yaml` into your Warp themes directory (`~/.local/share/warp-terminal/themes/` by default), then restart Warp or open **Settings → Appearance → Themes** and select *Omarchy Quattro Earth Tone*.
 
+## Optional Omarchy hooks
+
+Copy any of the hooks in `omarchy/hooks/theme-set.d/` into `~/.config/omarchy/hooks/theme-set.d/` and make them executable. They run automatically when the theme is applied.
+
+| Hook | What it does |
+|---|---|
+| `install-warp-theme.sh` | Copies the Warp theme to `~/.local/share/warp-terminal/themes/`. |
+| `color-about-logo.sh` | Tints the About logo with the original olive green (`#8b9a6d`) while keeping the rest of the theme unchanged. |
+
+```bash
+cp omarchy/hooks/theme-set.d/*.sh ~/.config/omarchy/hooks/theme-set.d/
+chmod +x ~/.config/omarchy/hooks/theme-set.d/*.sh
+omarchy theme set quattro-earth-tone
+```
+
 ## Herdr
 
 Copy the contents of `herdr/omarchy_quattro_earth_tone.toml` into your `~/.config/herdr/config.toml` (create the file if it does not exist). The theme uses `theme.name = "terminal"` so Herdr respects the ANSI palette already configured in your terminal, while its own UI stays in neutral black/gray with the caramel accent.
