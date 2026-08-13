@@ -6,6 +6,9 @@ mode = "dark"
 accent = "#d4a37e"
 cursor = "#FFFFFF"
 
+# Hyprland border override: window borders stay mauve while the accent is caramel
+hyprland_active_border = "#937478"
+
 # Primary colors
 foreground = "#FFFFFF"
 background = "#000000"
