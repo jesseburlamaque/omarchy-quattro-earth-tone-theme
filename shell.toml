@@ -6,3 +6,11 @@ background       = "#000000"
 background-alpha = 1.0
 text             = "#FFFFFF"
 active           = "#a78c83"
+
+# Popup and notification borders stay mauve (matching the window borders)
+# instead of following the caramel accent.
+[popups]
+border           = "#937478"
+
+[notifications]
+border           = "#937478"
