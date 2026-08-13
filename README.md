@@ -36,7 +36,7 @@ Included wallpapers for the theme. Click a thumbnail to open in full resolution.
 | Red | `#c06b5e` |
 | Green | `#8b9a6d` |
 | Yellow | `#d4a24a` |
-| Blue | `#5e7a8b` |
+| Blue | `#6d8a9b` |
 | Magenta | `#9a6e7a` |
 | Cyan | `#7da38b` |
 | Brown | `#6c5e5a` |

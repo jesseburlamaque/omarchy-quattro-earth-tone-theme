@@ -6,28 +6,29 @@
 /* Dynamic color palette from Omarchy */
 @define-color background #000000;
 @define-color foreground #FFFFFF;
+@define-color accent #d4a37e;
 
 @define-color black #000000;
-@define-color red #a78c83;
-@define-color green #d3bba2;
-@define-color yellow #ffe7cc;
-@define-color blue #d4a37e;
-@define-color magenta #c69e9a;
-@define-color cyan #e9d4ae;
+@define-color red #c06b5e;
+@define-color green #8b9a6d;
+@define-color yellow #d4a24a;
+@define-color blue #6d8a9b;
+@define-color magenta #9a6e7a;
+@define-color cyan #7da38b;
 @define-color white #FFFFFF;
 @define-color bright_black #686163;
-@define-color bright_red #c2a094;
-@define-color bright_green #f0d0af;
-@define-color bright_yellow #ffe9c7;
-@define-color bright_blue #eeb88e;
-@define-color bright_magenta #e3b1ac;
-@define-color bright_cyan #ffeaba;
+@define-color bright_red #d88a7d;
+@define-color bright_green #a8b78a;
+@define-color bright_yellow #e6bf6d;
+@define-color bright_blue #8aa4b5;
+@define-color bright_magenta #b88e9a;
+@define-color bright_cyan #9ec0a9;
 @define-color bright_white #FFFFFF;
 
 /* Adwaita color overrides (libadwaita / GTK4) */
-@define-color accent_bg_color @blue;
+@define-color accent_bg_color @accent;
 @define-color accent_fg_color @background;
-@define-color accent_color @cyan;
+@define-color accent_color @accent;
 
 @define-color window_bg_color @background;
 @define-color window_fg_color @foreground;
@@ -80,7 +81,7 @@
 @define-color theme_text_color @foreground;
 @define-color theme_bg_color @background;
 @define-color theme_base_color @background;
-@define-color theme_selected_bg_color @blue;
+@define-color theme_selected_bg_color @accent;
 @define-color theme_selected_fg_color @background;
 @define-color insensitive_bg_color alpha(@foreground, 0.05);
 @define-color insensitive_fg_color @bright_black;
@@ -89,7 +90,7 @@
 @define-color theme_unfocused_text_color @foreground;
 @define-color theme_unfocused_bg_color @background;
 @define-color theme_unfocused_base_color @background;
-@define-color theme_unfocused_selected_bg_color @blue;
+@define-color theme_unfocused_selected_bg_color @accent;
 @define-color theme_unfocused_selected_fg_color @background;
 @define-color unfocused_insensitive_color @bright_black;
 @define-color unfocused_borders alpha(@foreground, 0.15);
@@ -107,7 +108,7 @@
 
 /* Text-selection highlight (entries, labels, text views) */
 selection {
-    background-color: @blue;
+    background-color: @accent;
     color: @background;
 }
 
@@ -155,7 +156,7 @@ messagedialog button {
 }
 
 messagedialog button:hover {
-    background-color: @blue;
+    background-color: @accent;
     color: @background;
 }
 
